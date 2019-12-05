@@ -1,0 +1,5 @@
+
+void headStripSetup();
+void headStripNextScenario();
+
+
